@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Naughtdefender
-- 👀 I’m interested in Python
+- 👋 Hi, I’m @Naughtdefender <Kshitiz-Sharma>
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Modules and libraries
-- 💞️ I’m looking to collaborate on A project on python 
+- 💞️ I’m looking to collaborate on A project on HTML,CSS & JS. 
 - 📫 How to reach me - contribute to my code.
 
 <!---
