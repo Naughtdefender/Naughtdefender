@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naughtdefender <Kshitiz-Sharma>
+- 👋 Hi, I’m Kshtiz Sharma -@Naughtdefender
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Modules and libraries
 - 💞️ I’m looking to collaborate on A project on HTML,CSS & JS. 
